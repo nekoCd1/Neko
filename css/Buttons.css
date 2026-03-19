@@ -1,0 +1,13 @@
+.button{
+    padding:3vw;
+    margin-left:5vw;
+    background:linear-gradient(to right, #008080, #fffdd0);
+    cursor:pointer;
+    text-decoration: none;
+    border: transparent;
+    display:fit;
+.button:hover{
+    background:gray;
+    text-decoration: none;
+
+}
